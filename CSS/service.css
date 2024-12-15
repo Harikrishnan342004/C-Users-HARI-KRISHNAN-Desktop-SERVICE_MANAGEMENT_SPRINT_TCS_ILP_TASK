@@ -1,0 +1,38 @@
+
+
+     
+table,th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+  }
+  
+  th{
+    background-color: grey;
+    color: white;
+  }
+
+  td{
+    font-weight: bold;
+  }
+
+  
+.backbtn{
+
+    
+    text-align: center;
+    background-color: rgb(126, 127, 128);
+    color: #fff;
+    padding: 10px;
+    width: 100px;
+    height: auto;
+    font-size: 15px;
+    box-shadow: rgb(126, 127, 128);
+    border: none;
+    border-radius: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 30px;
+
+
+}

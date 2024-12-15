@@ -1,0 +1,73 @@
+body{
+    /* background-image: conic-gradient(lightgreen, skyblue, darkblue); */
+    background-image: url("../ASSETS/img4.jpg");
+    background-repeat: no-repeat;
+}
+#ad{
+    float: right;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    padding-right: 20px;
+}
+.container{
+    display: flex;
+    /* background-image: conic-gradient(lightgreen, skyblue, darkblue); */
+    /* background: inherit; */
+}
+.column{
+    flex: 50%;
+    padding: auto;
+    height: 300px;
+}
+li{
+    color: rgb(255, 0, 0);
+    padding-top: 30px;
+    font-size: 30px;
+    font-weight: bold;
+   
+}
+
+
+.container2{
+   
+
+    
+    margin-top: 2%;
+    padding-top: 0;
+    padding: 10px;
+   
+    
+   
+    text-align: center;
+}
+.btn{
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 50px;
+    border-style: hidden;
+    border-radius: 30px;
+    color: rgb(65, 155, 240);
+    background-color: inherit;
+    cursor: pointer;
+    font-weight: bold;
+    
+}
+
+.btn:hover{
+    color: rgb(6, 104, 184);
+    
+}
+
+p{
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+}
+
+h1{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(197, 51, 51);
+    
+}
