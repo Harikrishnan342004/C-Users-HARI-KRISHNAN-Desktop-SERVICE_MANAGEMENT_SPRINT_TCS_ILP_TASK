@@ -211,7 +211,7 @@ const RegUsers = [
     }
 ];
 
-
+    
 /// Function to search and display data
 function searchAndDisplay(query) {
     query = query.toLowerCase();
@@ -248,7 +248,7 @@ function searchAndDisplay(query) {
         }
     });
 
-    displayResults(results, type);
+    displayResults(results, type); 
 }
 
 // Function to display results in the table
